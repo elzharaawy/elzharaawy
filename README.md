@@ -54,4 +54,12 @@ like penetration testing, secure coding, and system defense.
 - 💼 LinkedIn: coming soon
 - 📧 Email: coming soon
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
+
+
 > “Secure code is not optional.”
