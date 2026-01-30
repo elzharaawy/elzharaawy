@@ -44,9 +44,17 @@ like penetration testing, secure coding, and system defense.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elzharaawy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elzharaawy&layout=compact&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=elzharaawy&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzharaawy&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
 
 
 ---
