@@ -53,8 +53,8 @@ like penetration testing, secure coding, and system defense.
 
 ## 🤝 Connect With Me
 - 🌍 Portfolio: coming soon
-- 💼 LinkedIn: coming soon
-- 📧 Email: coming soon
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/abdirahmansaed/)
+- 📧 Email: elzharaawy@gmail.com
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
