@@ -70,7 +70,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elzharaawy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=39d353)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elzharaawy&hide_border=true&background=0d1117&ring=00FF41&fire=39d353&currStreakLabel=00FF41&sideLabels=39d353&dates=39d353&currStreakNum=00FF41&sideNums=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com/?user=elzharaawy&hide_border=true&background=0d1117&ring=00FF41&fire=39d353&currStreakLabel=00FF41&sideLabels=39d353&dates=39d353&currStreakNum=00FF41&sideNums=00FF41)
 
 </div>
 
