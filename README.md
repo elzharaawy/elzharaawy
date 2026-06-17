@@ -38,12 +38,12 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-003b1f?style=for-the-badge&logo=python&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/JavaScript-003b1f?style=for-the-badge&logo=javascript&logoColor=00FF41) ![TypeScript](https://img.shields.io/badge/TypeScript-003b1f?style=for-the-badge&logo=typescript&logoColor=00FF41) ![C](https://img.shields.io/badge/C-003b1f?style=for-the-badge&logo=c&logoColor=00FF41) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-003b1f?style=for-the-badge&logo=react&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/HTML5-003b1f?style=for-the-badge&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/CSS3-003b1f?style=for-the-badge&logo=css3&logoColor=00FF41) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-003b1f?style=for-the-badge&logo=tailwind-css&logoColor=00FF41) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-003b1f?style=for-the-badge&logo=node.js&logoColor=00FF41) ![Express](https://img.shields.io/badge/Express.js-003b1f?style=for-the-badge&logo=express&logoColor=00FF41) ![PHP](https://img.shields.io/badge/PHP-003b1f?style=for-the-badge&logo=php&logoColor=00FF41) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-003b1f?style=for-the-badge&logo=mongodb&logoColor=00FF41) ![MySQL](https://img.shields.io/badge/MySQL-003b1f?style=for-the-badge&logo=mysql&logoColor=00FF41) |
-| **Security** | ![Linux](https://img.shields.io/badge/Linux-003b1f?style=for-the-badge&logo=linux&logoColor=00FF41) ![Kali](https://img.shields.io/badge/Kali_Linux-003b1f?style=for-the-badge&logo=kali-linux&logoColor=00FF41) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-003b1f?style=for-the-badge&logo=burpsuite&logoColor=00FF41) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-003b1f?style=for-the-badge&logo=git&logoColor=00FF41) ![GitHub](https://img.shields.io/badge/GitHub-003b1f?style=for-the-badge&logo=github&logoColor=00FF41) ![VS Code](https://img.shields.io/badge/VS_Code-003b1f?style=for-the-badge&logo=visual%20studio%20code&logoColor=00FF41) ![Docker](https://img.shields.io/badge/Docker-003b1f?style=for-the-badge&logo=docker&logoColor=00FF41) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Security** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elzharaawy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=39d353&text_color=39d353&ring_color=00FF41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elzharaawy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=39d353&text_color=39d353)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elzharaawy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=39d353)
 
@@ -84,10 +84,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-003b1f?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/abdirahmansaed/)
-[![Gmail](https://img.shields.io/badge/Gmail-003b1f?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:elzharaawy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-003b1f?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/elzharaawy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-003b1f?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://github.com/elzharaawy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdirahmansaed/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elzharaawy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elzharaawy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/elzharaawy)
 
 </div>
 
