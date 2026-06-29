@@ -89,8 +89,6 @@
 
 ---
 
----
-
 <div align="center">
 
 > *"Secure code is not optional."*
