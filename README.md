@@ -3,7 +3,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b1f,100:0d1117&height=200&section=header&text=Abdirahman%20Saed&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descColor=39d353&animation=twinkling)
 
 </div>
-
 <div align="center">
 
 ```
